@@ -15,9 +15,11 @@ An aspiring PhD researcher passionate about solving real-world problems using Ma
 * **Tools:** Git, GitHub, LaTeX, VS Code
 
 ### 📂 Current Focus
-* 📖 Reviewing core literatures in Deep Learning and Computer Vision.
-* 💻 Developing robust and well-documented open-source repositories.
-* 📝 Preparing for standardized academic profiles and test-taking.
+📖 Reviewing core literatures in Deep Learning and Computer Vision.
+<br>
+💻 Developing robust and well-documented open-source repositories.
+<br>
+📝 Preparing for standardized academic profiles and test-taking.
 
 ---
 📫 **How to reach me:** [fatematuj.jm@gmail.com](mailto:fatematuj.jm@gmail.com)
