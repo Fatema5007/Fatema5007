@@ -1,7 +1,6 @@
 # Hi there, I'm Fatematuj Johura (Mim) 👋
 
-An aspiring PhD researcher passionate about solving real-world problems using Machine Learning, Computer Vision, and Natural Language Processing (NLP). I am actively building my profile and developing research-backed projects to pursue doctoral studies.
-
+I am currently digging deep into computer vision and deep learning setups, with a special focus on self-supervised learning and medical image analysis (like oral cancer detection). Right now, I am actively building up my research profile and preparing for future PhD opportunities abroad.
 ---
 
 ### 🔬 Research Interests
