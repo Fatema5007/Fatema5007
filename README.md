@@ -1,6 +1,7 @@
 # Hi there, I'm Fatematuj Johura (Mim) 👋
 
 I am currently digging deep into computer vision and deep learning setups, with a special focus on self-supervised learning and medical image analysis (like oral cancer detection). Right now, I am actively building up my research profile and preparing for future PhD opportunities abroad.
+
 ---
 
 ### 🔬 Research Interests
@@ -14,11 +15,10 @@ I am currently digging deep into computer vision and deep learning setups, with 
 * **Tools:** Git, GitHub, LaTeX, VS Code
 
 ### 📂 Current Focus
-📖 Reviewing core literatures in Deep Learning and Computer Vision.
-<br>
-💻 Developing robust and well-documented open-source repositories.
-<br>
-📝 Preparing for standardized academic profiles and test-taking.
+* 📖 Reviewing core literatures in Deep Learning and Computer Vision.
+* 💻 Developing robust and well-documented open-source repositories.
+* 📝 Preparing for standardized academic profiles and test-taking.
 
 ---
-📫 **How to reach me:** [fatematuj.jm@gmail.com](mailto:fatematuj.jm@gmail.com)
+
+📫 **How to reach me:** fatematuj.jm@gmail.com
