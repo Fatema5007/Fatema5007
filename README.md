@@ -1,6 +1,6 @@
 # Hi there, I'm Fatematuj Johura Mim 👋
 
-I am a Computer Science undergraduate at North East University Bangladesh (NEUB), focusing on **Computer Vision, Medical Image Analysis, and Deep Learning Reliability**. My current research explores **Self-Supervised Learning (SSL), Model Calibration, and Explainable AI (XAI)** to build trustworthy medical AI systems.
+I am an undergraduate Computer Science student at North East University Bangladesh (NEUB), specializing in **Computer Vision, Medical Image Analysis, and Deep Learning Reliability**. My core research centers on **Self-Supervised Learning (SSL), Model Calibration, and Explainable AI (XAI)**.
 
 ---
 
