@@ -27,4 +27,4 @@ I am an undergraduate Computer Science student at North East University Banglade
 
 ### 📫 Connect with Me
 * **Email:** [fatematuj.jm@gmail.com](mailto:fatematuj.jm@gmail.com)
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+* **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/fatematuj-johura-mim/)
