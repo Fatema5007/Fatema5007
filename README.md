@@ -20,7 +20,7 @@ I am an undergraduate Computer Science student at North East University Banglade
 
 ### 📌 Current Focus & Research
 * **First-Author Research:** Developing **HUS-QA** — a heuristic unsupervised quality assurance engine for diagnosing calibrational blindness in dental segmentation.
-* **Undergraduate Thesis:** Enhancing oral cancer detection using self-supervised learning and ensemble architectures.
+* **Undergraduate Thesis:** Enhancing oral cancer detection via self-supervised learning and ensemble architectures.
 * **Academic Leadership:** Executive Member of NEUB Research Team, organizing ML pipeline workshops and mentoring junior researchers.
 
 ---
