@@ -1,24 +1,30 @@
-# Hi there, I'm Fatematuj Johura (Mim) 👋
+# Hi there, I'm Fatematuj Johura Mim 👋
 
-I am currently digging deep into computer vision and deep learning setups, with a special focus on self-supervised learning and medical image analysis (like oral cancer detection). Right now, I am actively building up my research profile and preparing for future PhD opportunities abroad.
+I am an undergraduate Computer Science student at North East University Bangladesh (NEUB), specializing in **Computer Vision, Medical Image Analysis, and Deep Learning Reliability**. My core research centers on **Self-Supervised Learning (SSL), Model Calibration, and Explainable AI (XAI)**. I am actively building my research profile for future PhD opportunities in AI/ML.
 
 ---
 
 ### 🔬 Research Interests
-* **Computer Vision:** Image Classification, Object Detection, and Medical Image Analysis.
-* **Natural Language Processing:** Text Analysis and Sequential Modeling.
-* **Machine Learning:** Self-Supervised Learning and Deep Learning Architectures.
-
-### 🛠️ Tech Stack & Skills
-* **Languages:** Python, C++
-* **Frameworks & Libraries:** PyTorch, TensorFlow, OpenCV, NumPy, Pandas
-* **Tools:** Git, GitHub, LaTeX, VS Code
-
-### 📂 Current Focus
-* 📖 Reviewing core literatures in Deep Learning and Computer Vision.
-* 💻 Developing robust and well-documented open-source repositories.
-* 📝 Preparing for standardized academic profiles and test-taking.
+* **Primary:** Medical Image Analysis, Self-Supervised Learning (SSL), Model Calibration & Quality Assurance, Ensemble Architectures
+* **Secondary:** Explainable AI (XAI), Semantic Segmentation, Deep Learning Reliability
 
 ---
 
-📫 **How to reach me:** fatematuj.jm@gmail.com
+### 🛠️ Tech Stack & Tools
+* **Languages:** Python, C, SQL
+* **ML / Vision Libraries:** PyTorch, OpenCV, Albumentations, Scikit-Learn, NumPy, Pandas, Matplotlib
+* **Architectures & Paradigms:** SimCLR, U-Net, ResNet, Contrastive Learning, Ensemble Models
+* **Tools & Environment:** Git, GitHub, Linux, LaTeX, VS Code, Google Colab
+
+---
+
+### 📌 Current Focus & Research
+* **First-Author Research:** Developing **HUS-QA** — a heuristic unsupervised quality assurance engine for diagnosing calibrational blindness in dental segmentation.
+* **Undergraduate Thesis:** Enhancing oral cancer detection using self-supervised learning and ensemble architectures.
+* **Academic Leadership:** Executive Member of NEUB Research Team, organizing ML pipeline workshops and mentoring junior researchers.
+
+---
+
+### 📫 Connect with Me
+* **Email:** [fatematuj.jm@gmail.com](mailto:fatematuj.jm@gmail.com)
+* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
