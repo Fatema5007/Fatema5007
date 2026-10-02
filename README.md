@@ -1,29 +1,32 @@
 # Hi there, I'm Fatematuj Johura Mim 👋
 
-I am an undergraduate Computer Science student at North East University Bangladesh (NEUB), specializing in **Computer Vision and  Medical Image Analysis**. My core research centers on **Medical Imaging, Self-Supervised Learning (SSL), Model Quality Assurance, and Deep Learning Reliability**.
+B.Sc. student in Computer Science and Engineering at **North East University Bangladesh (NEUB)**, graduating in December 2026. I work on **trustworthy deep learning for medical image analysis**, focusing on reliability, quality assurance, and self-supervised representation learning.
+
+---
+
+### 📄 Publication
+* **Beyond Ground Truth: A Heuristic Unsupervised Quality Assurance Engine for Diagnosing Calibrational Blindness in Dental Segmentation**
+  First author · **Accepted at the 11th IEEE Asia-Pacific Conference on Computer Science and Data Engineering (CSDE) 2026**
 
 ---
 
 ### 🔬 Research Interests
-* **Primary:** Medical Image Analysis, Self-Supervised Learning (SSL), Model Quality Assurance, Semantic Segmentation, Deep Learning Reliability
-* **Secondary:** Explainable AI (XAI) 
+* **Primary:** Trustworthy deep learning for medical image analysis (label-free quality estimation, failure detection for segmentation, overconfidence in medical models); self-supervised representation learning
+* **Secondary:** Explainable AI (XAI)
 
 ---
 
-### 🛠️ Tech Stack & Tools
-* **Languages:** Python, C, SQL
-* **ML / Vision Libraries:** PyTorch, OpenCV, Albumentations, Scikit-Learn, NumPy, Pandas, Matplotlib
-* **Architectures & Paradigms:** SimCLR, U-Net, ResNet, Contrastive Learning, Ensemble Models
-* **Tools & Environment:** Git, GitHub, LaTeX, VS Code, Google Colab
+### 📌 Current Work
+* **Undergraduate Thesis (in progress):** Enhancing Oral Cancer Detection via Self-Supervised Learning and Ensemble Architecture
+* **Executive Member, NEUB Research Team (Jun 2025 – Present):** Organize research workshops and mentor junior undergraduates on ML pipeline setup
 
 ---
 
-### 📌 Current Focus & Research
-* **First-Author Research:** Developing **HUS-QA** — a heuristic unsupervised quality assurance engine for diagnosing calibrational blindness in dental segmentation.
-* **Undergraduate Thesis:** Enhancing oral cancer detection via self-supervised learning and ensemble architectures.
-* **Academic Leadership:** Executive Member of NEUB Research Team, organizing ML pipeline workshops and mentoring junior researchers.
+### 🛠️ Tech Stack
+* **Deep learning & vision:** PyTorch, OpenCV, U-Net, ResNet, Vision Transformers, SimCLR / contrastive learning, ensemble methods, image segmentation, Albumentations
+* **Data & tools:** Python, C, SQL, NumPy, Pandas, Scikit-Learn, Matplotlib, Git/GitHub, LaTeX, Google Colab
 
 ---
 
-### 📫 Connect with Me
-* **Email:** [fatematuj.jm@gmail.com](mailto:fatematuj.jm@gmail.com)
+### 📫 Contact
+[fatematuj.jm@gmail.com](mailto:fatematuj.jm@gmail.com)
