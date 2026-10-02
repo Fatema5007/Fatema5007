@@ -6,7 +6,7 @@ B.Sc. student in Computer Science and Engineering at **North East University Ban
 
 ### 📄 Publication
 * **Beyond Ground Truth: A Heuristic Unsupervised Quality Assurance Engine for Diagnosing Calibrational Blindness in Dental Segmentation**
-  First author · **Accepted at the 11th IEEE Asia-Pacific Conference on Computer Science and Data Engineering (CSDE) 2026**
+ Solo author · **Accepted at the 11th IEEE Asia-Pacific Conference on Computer Science and Data Engineering (CSDE) 2026**
 
 ---
 
