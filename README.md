@@ -6,7 +6,8 @@ B.Sc. student in Computer Science and Engineering at **North East University Ban
 
 ### 📄 Publication
 * **Beyond Ground Truth: A Heuristic Unsupervised Quality Assurance Engine for Diagnosing Calibrational Blindness in Dental Segmentation**
- Solo author · **Accepted at the 11th IEEE Asia-Pacific Conference on Computer Science and Data Engineering (CSDE) 2026**
+  Solo author · **Accepted at the 11th IEEE Asia-Pacific Conference on Computer Science and Data Engineering (CSDE) 2026**
+  · [Code](https://github.com/Fatema5007/hus-qa-dental-segmentation)
 
 ---
 
@@ -29,4 +30,4 @@ B.Sc. student in Computer Science and Engineering at **North East University Ban
 ---
 
 ### 📫 Contact
-[fatematuj.jm@gmail.com](mailto:fatematuj.jm@gmail.com)
+[fatematuj.jm@gmail.com](mailto:fatematuj.jm@gmail.com) · [LinkedIn](https://www.linkedin.com/in/fatematuj-johura)
