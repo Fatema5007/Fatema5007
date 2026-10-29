@@ -23,6 +23,7 @@ Methodologically, self-supervised representation learning is used to build relia
 ---
 
 ### 📌 Current Work
+* **Undergraduate thesis:** Enhancing Oral Cancer Detection via Self-Supervised Learning and Ensemble Architecture (supervisor: Razorshi Prozzwal Talukder)
 * Research on cross-dataset generalization and shortcut learning in medical imaging
 * **Executive Member, NEUB Research Team (Jun 2025 – Present):** organize research workshops and mentor junior undergraduates on ML pipeline setup
 * **Poster presenter, LURS 3rd Student Research Conference (Aug 2026)**
